@@ -1,3 +1,5 @@
 ## Learning to see
 
-Taking CS231N Spring 2025 from Stanford on Youtube. Implenting all the core concepts from scratch here to further my understanding. 
+I'm taking [CS231N](http://cs231n.stanford.edu) from Stanford by watching the lectures on YouTube 
+
+Implementing all the core concepts from scratch here to further my understanding
